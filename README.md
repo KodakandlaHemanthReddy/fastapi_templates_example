@@ -1,4 +1,4 @@
-# msit_birthday_project
+# Fast API with Jinja templates
 
 
 
