@@ -1,0 +1,54 @@
+.birhtday {
+    background-color: blue;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+.h3tag {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.formelements {
+    justify-content: center;
+    display: flex;
+}
+
+.birthdaytableheader {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    align-items: center;
+}
+
+.birthdaytabledata {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 25;
+    align-items: center;
+}
+
+.table {
+    margin: 0 auto;
+    width: 60%;
+}
+
+th {
+    text-align: center !important;
+}
+
+td {
+    text-align: center;
+}
+
+.container {
+    padding-bottom: 50px;
+}
